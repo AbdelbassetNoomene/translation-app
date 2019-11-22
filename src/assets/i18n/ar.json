@@ -2,6 +2,6 @@
   "demo": {
     "title": "تجربة الترجمة في أنغلار ",
     "text": " ngx-translate تجربة بسيطة للترجمة ل ",
-    "greeting": "السلام عليكم  {{name}}!"
+    "greeting": "{{name}} السلام عليكم  !"
   }
 }
